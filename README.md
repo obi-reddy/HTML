@@ -13,7 +13,7 @@ Here's a detailed explanation of how HTML is useful:
 
 5. Forms and User Input: HTML includes form elements like input fields, checkboxes, radio buttons, dropdown menus, and buttons. These elements enable you to create interactive forms for user input, such as contact forms, registration forms, surveys, and more. User-submitted data from forms can be processed using server-side technologies like PHP or JavaScript.
 
-6. Search Engine Optimization (SEO): HTML plays a crucial role in optimizing your web pages for search engines. By using appropriate HTML tags, such as headings (<h1> to <h6>), title tags, meta descriptions, and alt attributes for images, you can provide search engines with valuable information about your content. This helps improve the visibility and ranking of your web pages in search engine results.
+6. Search Engine Optimization (SEO): HTML plays a crucial role in optimizing your web pages for search engines. By using appropriate HTML tags, such as headings (h1 to h6), title tags, meta descriptions, and alt attributes for images, you can provide search engines with valuable information about your content. This helps improve the visibility and ranking of your web pages in search engine results.
 
 7. Integration with CSS and JavaScript: HTML works in conjunction with Cascading Style Sheets (CSS) and JavaScript. CSS allows you to define the visual appearance and layout of your HTML elements, enhancing the overall design and aesthetics. JavaScript enables you to add interactivity and dynamic behavior to your web pages, making them more engaging and responsive.
 
