@@ -23,8 +23,7 @@ Here's a detailed explanation of how HTML is useful:
 
 In summary, HTML is a fundamental technology for creating web pages and applications. It provides structure, formatting, and interactive features, ensuring compatibility across different platforms, optimizing for search engines, and enabling a wide range of user interactions.
 
-
-#To run HTML files, you typically need a web browser. Here's a step-by-step guide on how to run HTML files:
+<h1>To run HTML files, you typically need a web browser. Here's a step-by-step guide on how to run HTML files:</h1>
 
 1. Create an HTML file: Use a text editor (e.g., Notepad, Sublime Text, Visual Studio Code) to create a new file. Save it with a ".html" extension. For example, you can save it as "index.html".
 
