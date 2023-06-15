@@ -22,3 +22,28 @@ Here's a detailed explanation of how HTML is useful:
 9. Accessibility: HTML provides a range of accessibility features that enable people with disabilities to access and navigate web content. Semantic HTML elements like headers, lists, and descriptive tags contribute to creating a more inclusive web experience. Accessible web design is important to ensure equal access to information for all users.
 
 In summary, HTML is a fundamental technology for creating web pages and applications. It provides structure, formatting, and interactive features, ensuring compatibility across different platforms, optimizing for search engines, and enabling a wide range of user interactions.
+
+
+#To run HTML files, you typically need a web browser. Here's a step-by-step guide on how to run HTML files:
+
+1. Create an HTML file: Use a text editor (e.g., Notepad, Sublime Text, Visual Studio Code) to create a new file. Save it with a ".html" extension. For example, you can save it as "index.html".
+
+2. Write HTML code: Open the HTML file in your chosen text editor and write your HTML code within the file. You can add tags, elements, content, and any desired formatting.
+
+3. Save the file: After writing your HTML code, save the file to preserve your changes.
+
+4. Open the HTML file in a web browser: Locate the HTML file you created and saved. Double-click on the file, and it should open in your default web browser. The browser will render the HTML code and display the content as a web page.
+
+Alternatively, you can also follow these steps to run an HTML file within a web browser:
+
+1. Open a web browser: Launch your preferred web browser (e.g., Google Chrome, Mozilla Firefox, Safari).
+
+2. Open the browser's file menu: Click on the menu icon (usually represented by three horizontal lines or three dots) located at the top-right corner of the browser window.
+
+3. Choose "Open File" or "Open": In the file menu, you should find an option like "Open File" or simply "Open". Click on it to open a file selection dialog.
+
+4. Select the HTML file: In the file selection dialog, navigate to the directory where your HTML file is saved. Select the HTML file and click "Open" or "Choose" (depending on your browser).
+
+5. View the HTML file: The web browser will load the HTML file and display it as a rendered web page. You can interact with the page, click on links, and see how your HTML code is presented.
+
+It's important to note that when running an HTML file locally (i.e., from your computer's file system), the browser treats it as a "file://" URL. This means that certain web-related features may be restricted or limited due to security reasons. To make use of advanced functionality, such as accessing external resources or running server-side scripts, you would need to host your HTML file on a web server.
